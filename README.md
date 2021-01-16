@@ -2,4 +2,4 @@
 week 4: data course project
 
 # Dataset
-(http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+[Human activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
